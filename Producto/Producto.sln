@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "Producto\Vista.csproj", "{6EEB93A4-18CF-4DCE-8F93-FCD3E593256F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "ModeloProducto\Modelo.csproj", "{686D4A91-C61A-431E-8FB5-8A02A04E8987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "Controlador\Controlador.csproj", "{5F7C5C94-238D-453A-8C16-F93F2E03C529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EEB93A4-18CF-4DCE-8F93-FCD3E593256F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEB93A4-18CF-4DCE-8F93-FCD3E593256F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEB93A4-18CF-4DCE-8F93-FCD3E593256F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEB93A4-18CF-4DCE-8F93-FCD3E593256F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686D4A91-C61A-431E-8FB5-8A02A04E8987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686D4A91-C61A-431E-8FB5-8A02A04E8987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686D4A91-C61A-431E-8FB5-8A02A04E8987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686D4A91-C61A-431E-8FB5-8A02A04E8987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7C5C94-238D-453A-8C16-F93F2E03C529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7C5C94-238D-453A-8C16-F93F2E03C529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7C5C94-238D-453A-8C16-F93F2E03C529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7C5C94-238D-453A-8C16-F93F2E03C529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AD5B931-1616-41D5-8280-B857A957EBD1}
+	EndGlobalSection
+EndGlobal
